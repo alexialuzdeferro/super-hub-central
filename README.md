@@ -9,7 +9,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-<img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="300" alt="Fire Animation">
+<img src="https://github.com/alexialuzdeferro/super-hub-central/blob/main/ea524c16-cae9-11f0-aaa5-4607066fd33a_0.mp4" width="300" alt="Fire Animation">
 
 **Portal místico dedicado ao universo sagrado das Pombagiras**
 
